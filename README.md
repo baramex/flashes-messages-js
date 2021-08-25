@@ -46,3 +46,6 @@ Body:
   
 </body>
 ```
+
+## Credits
+The icons come from [paomedia](https://github.com/paomedia)
