@@ -1,0 +1,71 @@
+.flash {
+    margin-top: 20px;
+    width: 85%;
+    margin-left: 7.5%;
+    border-radius: 10px;
+    vertical-align: middle;
+    padding: 5px;
+    font-size: 110%;
+    border-width: 0 3px 3px 0;
+    border-style: solid;
+}
+
+.success-flash.flash {
+    border-color: transparent #2ecc71 #2ecc71 transparent;
+}
+
+.error-flash.flash {
+    border-color: transparent #e74c3c #e74c3c transparent;
+}
+
+.info-flash.flash {
+    border-color: transparent #3498db #3498db transparent;
+}
+
+.warning-flash.flash {
+    border-color: transparent #f1c40f #f1c40f transparent;
+}
+
+.not-allowed-flash.flash {
+    border-color: transparent #e74c3c #e74c3c transparent;
+}
+
+.error-flash p.mes {
+    border-left: 4px solid #e74c3c;
+}
+
+.error-flash {
+    background-color: #FF6B5A;
+    color: #fff;
+}
+
+.success-flash p.mes {
+    border-left: 4px solid #2ecc71;
+}
+
+.success-flash {
+    background-color: #41fb77;
+    color: #fff;
+}
+
+.info-flash p.mes {
+    border-left: 4px solid #3498db;
+}
+
+.info-flash {
+    background-color: #52baff;
+    color: #fff;
+}
+
+.not-allowed-flash p.mes {
+    border-left: 4px solid #e74c3c;
+}
+
+.not-allowed-flash {
+    background-color: #FF6B5A;
+    color: #fff;
+}
+
+p.mes {
+    border-radius: 2px;
+}
