@@ -17,10 +17,10 @@
 ## Create Flash
 - function: createFlash(type, message, time?)
 - types: 
-- - `success-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810606-c2b6d990-d224-41aa-a70a-d647a283f000.PNG'>
-- - `error-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810630-6f26c84b-37fe-46fd-bf3f-88ef63ca1da1.PNG'>
-- - `info-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810660-0cc2aa75-329d-42ac-9bd7-37ed6aca08bc.PNG'>
-- - `not-allowed-flash` <img src='https://user-images.githubusercontent.com/47333747/130810671-8124093c-14fa-405c-82f2-ae46e9237736.PNG' width='70%'>
+  - `success-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810606-c2b6d990-d224-41aa-a70a-d647a283f000.PNG'>
+  - `error-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810630-6f26c84b-37fe-46fd-bf3f-88ef63ca1da1.PNG'>
+  - `info-flash` <img width='70%' src='https://user-images.githubusercontent.com/47333747/130810660-0cc2aa75-329d-42ac-9bd7-37ed6aca08bc.PNG'>
+  - `not-allowed-flash` <img src='https://user-images.githubusercontent.com/47333747/130810671-8124093c-14fa-405c-82f2-ae46e9237736.PNG' width='70%'>
 - message: string
 - time: the default is 2500 ms, 0 is infinite
 - <i>exemple: createFlash("success-flash", "You understood!", 0)</i>
