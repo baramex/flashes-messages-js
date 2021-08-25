@@ -1,8 +1,8 @@
 ## Infos
 [![](https://img.shields.io/github/languages/top/baramex/flashes-messages-js?style=for-the-badge)]()
 
-[![](https://img.shields.io/github/downloads/baramex/flashes-messages-js/total.svg?style=for-the-badge)](https://github.com/baramex/flashes-messages-js/releases/)
-[![](https://img.shields.io/github/v/release/baramex/flashes-messages-js?style=for-the-badge&label=last%20release)](https://github.com/baramex/flashes-messages-js/releases/latest/)
+[![](https://img.shields.io/github/downloads/baramex/flashes-messages-js.svg/total.svg?style=for-the-badge)](https://github.com/baramex/flashes-messages-js/releases/)
+[![](https://img.shields.io/github/v/release/baramex/flashes-messages-js.svg?style=for-the-badge&label=last%20release)](https://github.com/baramex/flashes-messages-js/releases/latest/)
 [![](https://img.shields.io/github/release-date/baramex/flashes-messages-js.svg?style=for-the-badge&label=last%20release%20date)](https://github.com/baramex/flashes-messages-js/releases/latest/)
 
 [![](https://img.shields.io/github/license/baramex/flashes-messages-js.svg?style=for-the-badge)](https://choosealicense.com/licenses/lgpl-3.0/)
