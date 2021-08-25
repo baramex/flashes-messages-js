@@ -12,7 +12,7 @@
 - [jQuery](https://code.jquery.com/)
 
 ## Installation
-- Download the script and use in local OR use CDN
+- Download the script (and style) and use it in local OR use CDN
 
 ## Create Flash
 - function: createFlash(type, message, time?)
