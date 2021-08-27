@@ -8,6 +8,8 @@
 [![](https://img.shields.io/github/license/baramex/flashes-messages-js.svg?style=for-the-badge)](https://choosealicense.com/licenses/lgpl-3.0/)
 [![](https://img.shields.io/badge/author-baramex-red?style=for-the-badge)](https://github.com/baramex/)
 
+![img](https://user-images.githubusercontent.com/47333747/131180968-900589a9-69ea-4850-9839-a10cc130eb9d.PNG)
+
 ## Downloads and tuto
 [![](https://img.shields.io/github/v/release/baramex/flashes-messages-js.svg?style=for-the-badge&label=last%20release)](https://github.com/baramex/flashes-messages-js/releases/latest/)
 
