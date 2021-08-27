@@ -1,3 +1,11 @@
+/*
+#####        flashes messages        #####
+#          Developed by Baramex          #
+### github: https://github.com/baramex ###
+
+Licence: lgpl-3.0
+*/
+
 window.addEventListener("load", () => {
     var div = document.createElement("div");
     div.id = "flashDiv",
