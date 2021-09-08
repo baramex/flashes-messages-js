@@ -1,4 +1,5 @@
 ## Infos
+[![](https://tokei.rs/b1/github/baramex/flashes-messages-js)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/flashes-messages-js?style=for-the-badge)]()
 
 [![](https://img.shields.io/github/downloads/baramex/flashes-messages-js/total.svg?style=for-the-badge)](https://github.com/baramex/flashes-messages-js/releases/)
