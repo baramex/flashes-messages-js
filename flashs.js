@@ -3,7 +3,7 @@
 #          Developed by Baramex          #
 ### github: https://github.com/baramex ###
 
-Licence: lgpl-3.0
+License: lgpl-3.0
 */
 
 window.addEventListener("load", () => {

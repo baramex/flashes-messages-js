@@ -3,7 +3,7 @@
 #          Developed by Baramex          #
 ### github: https://github.com/baramex ###
 
-Licence: lgpl-3.0
+License: lgpl-3.0
 */
 
 .flash {
@@ -28,10 +28,6 @@ Licence: lgpl-3.0
 
 .info-flash.flash {
     border-color: transparent #3498db #3498db transparent;
-}
-
-.warning-flash.flash {
-    border-color: transparent #f1c40f #f1c40f transparent;
 }
 
 .not-allowed-flash.flash {
