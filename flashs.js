@@ -36,7 +36,7 @@ function generateFlash(type, message) {
     var flash = document.createElement("div");
     flash.classList.add("flash");
     flash.classList.add(type);
-    flash.innerHTML = "<p style='display: inline-block;vertical-align: middle;margin: 0;margin-left: 3px;'><img style='vertical-align: middle;' src='http://baramex.fr:9999/utils/images/flashs/" + type + ".png' width='50px'></p> <p class='mes' style='display: inline-block; padding: 5px;line-height: 40px; margin: 0'>" + message + "</p>";
+    flash.innerHTML = "<p style='display: inline-block;vertical-align: middle;margin: 0;margin-left: 3px;'><img style='vertical-align: middle;' src='http://cdn.baramex.fr/utils/images/flashs/" + type + ".png' width='50px'></p> <p class='mes' style='display: inline-block; padding: 5px;line-height: 40px; margin: 0'>" + message + "</p>";
 
     return flash;
 }
