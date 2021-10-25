@@ -39,8 +39,8 @@
 <h2 id='cdn'>CDN</h2>
 
 ```html
-<link rel="stylesheet" href="http://cdn.baramex.fr/cdn/flashes-messages/flashs.css">
-<script src="http://cdn.baramex.fr/cdn/flashes-messages/flashs.js"></script>
+<link rel="stylesheet" href="http://cdn.baramex.me/libs/js/flashes-messages/flashs.css">
+<script src="http://cdn.baramex.me/libs/js/flashes-messages/flashs.js"></script>
 ```
 
 ## Exemple
@@ -48,8 +48,8 @@ Head:
 ```html
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<link rel="stylesheet" href="http://cdn.baramex.fr/cdn/flashes-messages/flashs.css">
-<script src="http://cdn.baramex.fr/cdn/flashes-messages/flashs.js"></script>
+<link rel="stylesheet" href="http://cdn.baramex.me/libs/js/flashes-messages/flashs.css">
+<script src="http://cdn.baramex.me/libs/js/flashes-messages/flashs.js"></script>
 ```
 
 Body:
